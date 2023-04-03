@@ -1,0 +1,19 @@
+{
+  "name": "js-orientacao-objetos-aula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorFirmino/js-orientacao-objetos-aula1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorFirmino/js-orientacao-objetos-aula1/issues"
+  },
+  "homepage": "https://github.com/IgorFirmino/js-orientacao-objetos-aula1#readme"
+}
